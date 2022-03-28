@@ -4,6 +4,7 @@ flowers[0]="Rose";
 flowers[1]="Jasmine";
 flowers[2]="Hibiscus";
 flowers[3]="Lily";
+flowers[4]="Tulip"
 
 echo "All elements of array : "${flowers[@]};
 echo "Size of array : " ${#flowers[@]};
